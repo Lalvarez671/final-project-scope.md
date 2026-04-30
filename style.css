@@ -1,0 +1,55 @@
+/* Change background color */
+body {
+    background-color: #f2f2f2;
+    margin: 20px;
+}
+
+/* Style main heading */
+h1 {
+    color: #1a1a1a;
+    font-family: Arial, sans-serif;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Style section headings */
+h2 {
+    color: #333333;
+    font-family: Arial, sans-serif;
+    margin-bottom: 10px;
+}
+
+/* Style paragraphs */
+p {
+    color: #111111; 
+    font-family: "Times New Roman", serif;
+    padding: 15px; 
+}
+
+/* Style sections (like div boxes) */
+section {
+    margin: 15px;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 3px solid black;
+}
+
+/* Style navigation links */
+a {
+    color: blue;
+    text-decoration: none;
+    margin: 10px;
+}
+
+a:hover {
+    color: red;
+}
+
+/* Style footer */
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #dddddd;
+    border: 2px solid black;
+    text-align: center;
+}
